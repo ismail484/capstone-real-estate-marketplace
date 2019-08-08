@@ -2,6 +2,19 @@
 
 The capstone will build upon the knowledge you have gained in the course in order to build a decentralized housing product. 
 
+
+# Requirements
+
+* Node v10.15.4
+* Truffle v5.0.18
+
+# Installation
+
+* git clone https://github.com/ismail484/capstone-real-estate-marketplace.git
+* cd Blockchain-Capstone
+* npm install
+
+
 # Project Resources
 
 * [Remix - Solidity IDE](https://remix.ethereum.org/)
